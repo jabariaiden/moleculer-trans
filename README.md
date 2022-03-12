@@ -1,5 +1,4 @@
-# moleculer-trans
-research of DNA-data 
-dna managment
-protein structures
-data analysation
+# software engineer
+research of softwere data 
+data creation and managment
+creation of useful software
